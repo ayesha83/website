@@ -1,0 +1,28 @@
+h1{
+    color : blueviolet;
+
+    font-size: 100px;
+}
+
+*{
+    background-color: rgb(223, 223, 199);
+    font-family: 'Titillium Web', sans-serif;
+
+}
+.mainText{
+    font-size: 50px;
+    color: pink;
+}
+
+#introMessage{
+    font-size: 70px;
+    color: bisque;
+}
+.topsection{
+    border: solid 4px purple;
+}
+.body{
+    font-size: 100px;
+    color: blue;
+
+}
